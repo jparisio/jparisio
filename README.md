@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jparisio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 
-
 ###
 
 <div align="left">
@@ -77,3 +76,9 @@
 
 ###
 
+<h2 align="center">🛠️ A few things I’ve built</h2>
+
+<div align="center">
+  <img src="./media/project-1.gif" width="320" alt="Project 1 demo" style="margin-right: 20px;" />
+  <img src="./media/project-2.gif" width="320" alt="Project 2 demo" />
+</div>
