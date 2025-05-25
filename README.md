@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there, I'm Justin Parisio!<br><br>🎓 CS grad from the University of Guelph (3.9 GPA)  <br>💼 Built full-stack apps solo — front to back, UI to Docker  <br>⚙️ Tech I vibe with: React, Next.js, Node.js, Supabase, PostgreSQL  <br>🎨 Lover of sleek UI, subtle motion, and clean code  <br>🚀 Currently building things that scale, animate, and delight  <br>📫 Let's connect: [LinkedIn](https://your-link) | [Portfolio](https://your-site)  <br><br>🧠 Always learning. Always shipping.<br>
-
+## 👋 Hey there, I'm Justin Parisio!<br><br>🎓 CS grad from the University of Guelph (3.9 GPA)  <br>💼 Built full-stack apps solo — front to back, UI to Docker  <br>⚙️ Tech I vibe with: React, Next.js, Node.js, Supabase, PostgreSQL  <br>🎨 Lover of sleek UI, subtle motion, and clean code  <br>🚀 Currently building things that scale, animate, and delight  <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/justin.parisio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/justin-parisio/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jparisio@uoguelph.ca) 
