@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jparisio&locale=en&mode=daily&theme=tokyonight_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jparisio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=tokyonight_dark" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jparisio&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=jparisio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=onedark" height="150" alt="languages graph"  />
 </div>
 
 ###
