@@ -77,6 +77,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jparisio/count.svg?"  />
-</div>
