@@ -1,5 +1,5 @@
 <h1>👋 Hey there, I'm Justin Parisio!<br><br> </h1>
-<h2 align="left">🎓 CS new grad from the University of Guelph  <br>💼 Built full-stack apps solo — front to back, UI to Docker  <br>⚙️ Tech I vibe with: React, Next.js, Typescript, C#, PostgreSQL  <br>🎨 Lover of sleek UI, subtle motion, and clean code  <br>🚀 Currently building things that scale, animate, and delight  <br><br><br>🧠 Always learning. Always shipping.</h2>
+<h2 align="left">🎓 CS student from the University of Guelph  <br>💼 Built full-stack apps solo — front to back, UI to Docker  <br>⚙️ Tech I vibe with: React, Next.js, Typescript, C#, PostgreSQL  <br>🎨 Lover of sleek UI, subtle motion, and clean code  <br>🚀 Currently building things that scale, animate, and delight  <br><br><br>🧠 Always learning. Always shipping.</h2>
 
 ###
 
